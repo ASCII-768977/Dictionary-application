@@ -1,1 +1,1 @@
-# dictionary
+# A multiple clients dictionary
